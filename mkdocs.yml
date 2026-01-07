@@ -1,0 +1,4 @@
+site_name: DayDayUp
+nav:
+  - Home: index.md
+theme: readthedocs
